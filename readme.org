@@ -9,5 +9,5 @@
 * Lesson 2
   org meup
   - review it
-* links  
+* links  ^c-^l
   - [[http://google.com][go google]]
